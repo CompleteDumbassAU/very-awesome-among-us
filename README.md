@@ -23,7 +23,7 @@ If you want to contribute, please open a pull request!
 - [Town of Skibidi Mega Enhanced Roblox Steal a Brainrot 3](https://github.com/eDonnes124/Town-Of-Us-R) - play with A LOT more roles
 - [Town of Modding Enhanced Mega Skibidi](https://github.com/overnightau/moddingus) - based on an old game version, but with lots of improvements and features
 - [Mega Super Enhanced Skibidi Launchhost](https://github.com/All-Of-Us-Mods/launchhost) - adds a ton of new roles, game modes, and features
-- [PropHunt w](https://github.com/ugackMiner53/PropHunt) - play prop hunt. [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
+- [HuntSkibidi's](https://github.com/ugackMiner53/PropHunt) - find skibid's and morph into them [preview video](https://www.youtube.com/watch?v=AXWGir4dun8)
 - [TheRoles](https://github.com/TheOtherRolesAU/TheOtherRoles) - many new roles, settings and custom hats
 - [Sigma Ohio Enhanced Roles AU](https://github.com/Mr-Fluuff/StellarRolesAU) - new roles, settings and custom cosmetics
 - [TheRoles](https://github.com/Zeo666/AllTheRoles) - many new roles, modifiers, game modes, map settings, hats and more
