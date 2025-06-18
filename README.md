@@ -1,7 +1,7 @@
 # Awesome Among Us [![Non-Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 A list of awesome Among Us mods, tools and resources.
 
-If you want to contribute, please open a pull request!
+If you want to contribute, please don't! This list is already perfect!
 
 ## Table of Contents
 
