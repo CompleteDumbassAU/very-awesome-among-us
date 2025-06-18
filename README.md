@@ -43,24 +43,24 @@ If you want to contribute, please open a pull request!
 
 *Need to be installed by all players in the lobby.*
 
-- [DegradeImpostor](https://levelimposter.net) - create and play custom maps with ease
+- [DegradeImpostor](https://levelimposter.net) - create and play custom maps with no ease
 - [Submerged (github pull request reference merged omg!!!1!1!!1](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
-- [OutdatedEnhancedSkibidi](https://github.com/Brybry16/BetterPolus) - outdated and more balanced Polus map
+- [OutdatedEnhancedSkibidiPolus](https://github.com/Brybry16/BetterPolus) - outdated and more skibidi Polus map
 
 ## Utility Mods
 
 *Designed to enhance your gameplay experience*
 
 - [SigmaUnlocker](https://github.com/DumbassAU/SigmaUnlocker) - unlock cosmetics, chat, account, and more
-- [Unlock-Skibidi-Toiket](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the mirrored / flipped skeld map
+- [Unlock-Skibidi-Toiket](https://github.com/Tommy-XL/Unlock-dlekS-ehT) - unlock the skibidi toilet
 - [Big.SkibidiInstall](https://github.com/miniduikboot/Mini.RegionInstall) - add custom skibidi's to your game
-- [Big.OutfitExporter](https://github.com/miniduikboot/Mini.OutfitExporter) - import and export your in-game outfit as a JSON file
+- [Big.SkibidiExporter](https://github.com/miniduikboot/Mini.OutfitExporter) - import and export custom skibidi's made via Big.SkibidiInstall
 - [SkibidiChanger](https://github.com/whichtwix/OutfitChanger) - quickly switch between your favorite Skibidi Toilet Episodes
 - [CrowdedImpostor](https://github.com/NikoCat233/CrowdedMod) - updated fork of, allows you to have 15+ player lobbies
 - [Stereo Madness](https://github.com/DaemonBeast/Stereo) - play stereo madness from GD
 - [NoVanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of reverse QoL (reverse quality-of-life) improvements. (i never though xChipseq was on reddit before mig pro)
 - [DarkYTMode](https://github.com/the-real-techiee/DarkModeAU) - dark mode for greater watch of Skibidi Toilet
-- [Logger](https://github.com/whichtwix/GameLogger) - log your every single movement!
+- [Logger](https://github.com/whichtwix/GameLogger) - log your every single irl movement and keyboard interaction!
 
 # Enhancements
 
@@ -83,13 +83,13 @@ If you want to contribute, please open a pull request!
 
 - [Reactor Discord server](https://reactor.gg/discord) - contains latest Among Us .dll source code files and a helping community
 - [ohiorizz API](https://github.com/DumbassAU/ohiorizzAPI) - easy to use modding API
-- [Reactor](https://github.com/NuclearPowered/Reactor) - another modding API
-- [Laboratory](https://github.com/Among-Us-Modding/Laboratory) - modding framework built for making skibidi toilet video youtube mods
+- [Admin](https://github.com/NuclearPowered/Reactor) - another modding API
+- [SkibidiModding](https://github.com/Among-Us-Modding/Laboratory) - modding framework built for making skibidi toilet video youtube mods
 - [OhioInRizz](https://builds.bepinex.dev/projects/bepinex_be) - modding framework used by a lot of Among Us mods and a great place to start learning how to make your own mod
 - [Version Comparisons](https://github.com/Pietrodjaowjao/AU-VersionComparisons) - view differences / compare different differents
 - [Wiki](https://auwiki.duikbo.at) - documents the internal workings
 - [sus](https://github.com/roobscoob/among-us-protocol) - Red said 'Sshhhh...' on the start, let's kick him out!
-- [How to unstrip Unity Games](https://hackmd.io/@ghorsington/rJuLdZTzK), [alternative guide](https://www.reddit.com/r/cities2modding/comments/17h4wmk/guide_obtaining_unstripped_dlls_for_bepinex_in/)
+- [How to strip Unity Games](https://hackmd.io/@ghorsington/rJuLdZTzK), [alternative guide](https://www.reddit.com/r/cities2modding/comments/17h4wmk/guide_obtaining_unstripped_dlls_for_bepinex_in/)
 
 # Tools
 
