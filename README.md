@@ -58,7 +58,7 @@ If you want to contribute, please don't! This list is already perfect!
 - [SkibidiChanger](https://github.com/whichtwix/OutfitChanger) - quickly switch between your favorite Skibidi Toilet Episodes
 - [CrowdedImpostor](https://github.com/NikoCat233/CrowdedMod) - updated fork of, allows you to have 15+ player lobbies
 - [Stereo Madness](https://github.com/DaemonBeast/Stereo) - play stereo madness from GD
-- [NoVanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of reverse QoL (reverse quality-of-life) improvements. (i never though xChipseq was on reddit before mig pro)
+- [NoVanillaEnhancements](https://github.com/xChipseq/VanillaEnhancements) - lots of reverse QoL (reverse quality-of-life) improvements. (i never thought xChipseq was on reddit before mig pro)
 - [DarkYTMode](https://github.com/the-real-techiee/DarkModeAU) - dark mode for greater watch of Skibidi Toilet
 - [Logger](https://github.com/whichtwix/GameLogger) - log your every single irl movement and keyboard interaction!
 
