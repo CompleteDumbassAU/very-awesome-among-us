@@ -44,7 +44,7 @@ If you want to contribute, please don't! This list is already perfect!
 *Need to be installed by all players in the lobby.*
 
 - [DegradeImpostor](https://levelimposter.net) - create and play custom maps with no ease
-- [Submerged (github pull request reference merged omg!!!1!1!!1](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
+- [Submerged (github pull request reference merged omg!!!1!1!!1)](https://github.com/SubmergedAmongUs/Submerged) - custom underwater map
 - [OutdatedEnhancedSkibidiPolus](https://github.com/Brybry16/BetterPolus) - outdated and more skibidi Polus map
 
 ## Utility Mods
